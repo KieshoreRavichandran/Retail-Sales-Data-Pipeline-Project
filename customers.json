@@ -1,0 +1,26 @@
+[
+    {
+        "CustomerID": 1,
+        "CustomerName": "John Smith",
+        "Email": "john@example.com",
+        "Phone": "07123456789",
+        "City": "London",
+        "Country": "UK"
+    },
+    {
+        "CustomerID": 2,
+        "CustomerName": "Emily Davis",
+        "Email": "emily@example.com",
+        "Phone": "07234567890",
+        "City": "Manchester",
+        "Country": "UK"
+    },
+    {
+        "CustomerID": 3,
+        "CustomerName": "Michael Brown",
+        "Email": "michael@example.com",
+        "Phone": "07345678901",
+        "City": "Leeds",
+        "Country": "UK"
+    }
+]
