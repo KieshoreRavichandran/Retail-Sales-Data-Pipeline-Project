@@ -1,0 +1,6 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,TotalAmount,CustomerName,Email,Phone,City,Country,ProductName,Category,Price,StockQuantity
+1,1,2,2025-04-01 00:00:00.0000000,2,179.98,John Smith,john@example.com,07123456789,London,UK,Headphones,Electronics,89.99,100
+2,2,3,2025-04-02 00:00:00.0000000,1,14.99,Emily Davis,emily@example.com,07234567890,Manchester,UK,T-Shirt,Clothing,14.99,200
+3,1,1,2025-04-03 00:00:00.0000000,1,399.99,John Smith,john@example.com,07123456789,London,UK,Smartphone,Electronics,399.99,50
+4,3,5,2025-04-04 00:00:00.0000000,1,799.00,Michael Brown,michael@example.com,07345678901,Leeds,UK,Laptop,Electronics,799.0,30
+5,2,4,2025-04-05 00:00:00.0000000,3,73.50,Emily Davis,emily@example.com,07234567890,Manchester,UK,Cookbook,Books,24.5,80

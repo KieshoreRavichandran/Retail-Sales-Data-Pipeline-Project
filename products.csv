@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Price,StockQuantity
+1,Smartphone,Electronics,399.99,50
+2,Headphones,Electronics,89.99,100
+3,T-Shirt,Clothing,14.99,200
+4,Cookbook,Books,24.5,80
+5,Laptop,Electronics,799.0,30
